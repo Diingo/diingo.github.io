@@ -66,9 +66,9 @@ h1 {
 
 header {
 	letter-spacing: -1px;
-	color: #ffe448;
+	/*color: #ffe448;*/
 	color: #fdd805;
-	color: #fedd22;
+	/*color: #fedd22;*/
 }
 
 header h2{
@@ -79,7 +79,8 @@ header h2{
 .yellow {
 	/*color: #ffe448;*/
 	/*color: #fedd22;*/
-	color: #fdd805;
+	/*color: #fdd805;*/ /*this is the original color*/
+	color: #fdb005;
 	/*color: orange;*/
 }
 
