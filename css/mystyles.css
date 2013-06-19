@@ -1,8 +1,14 @@
+/*body {
+	background: url(/img/backgrounds/binding_dark.png) repeat 0 0;
+}*/ 
+/*currently above is not working*/
+
 #octocatmain {
 	width: 60%;
 	height: 60%;
 	display: block;
 	margin: auto;
+	border-radius: 100%;
 }
 
 .dropshadow {
