@@ -1,6 +1,7 @@
-/*body {
-	background: url(/img/backgrounds/binding_dark.png) repeat 0 0;
-}*/ 
+body {
+	background-image:url(../img/backgrounds/binding_dark.png) repeat 0 0;
+	
+} 
 /*currently above is not working*/
 
 #octocatmain {
@@ -66,13 +67,12 @@ h1 {
 
 header {
 	letter-spacing: -1px;
-	/*color: #ffe448;*/
+	color: #ffe448;
 	color: #fdd805;
-	/*color: #fedd22;*/
+	color: #fedd22;
 }
 
 header h2{
-	
 	font-weight: 300;
 }
 
@@ -80,15 +80,10 @@ header h2{
 .yellow {
 	/*color: #ffe448;*/
 	/*color: #fedd22;*/
-	/*color: #fdd805;*/ /*this is the original color*/
-	color: #fdb005;
+	color: #fdd805;
 	/*color: orange;*/
 }
 
-.purple {
-	/*color: #4216ad;*/
-	color: #724ad6;
-}
 .orange {
 	/*color: #ffc02d;*/
 	/*color: #f8a605;*/
